@@ -28,9 +28,9 @@ class DetailViewController: UIViewController {
         print(formattedDateAndTime)
         
         
-        reminder.dateAndTime = formattedDateAndTime
-        reminder.title = reminderTitleField.text
-        reminder.notes = reminderNotesField.text
+//        reminder.dateAndTime = formattedDateAndTime
+//        reminder.title = reminderTitleField.text
+//        reminder.notes = reminderNotesField.text
         
     }
     
